@@ -2,8 +2,7 @@
 Doom-Fire
 </h1>
 
-<img align="center" width="100%" height="500px" src="https://github.com/Caioesqueletron/Doom-Fire/assets/54816901/216ceba3-6e04-451e-8977-58d35bcfc23b
-"/>
+<img align="center" width="100%" height="500px" src="https://github.com/Caioesqueletron/Doom-Fire/assets/54816901/5859dcf9-1a77-423f-9859-a9877757f466"/>
 
 
 <hr>
